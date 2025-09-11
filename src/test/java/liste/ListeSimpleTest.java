@@ -10,7 +10,7 @@ public class ListeSimpleTest {
     ListeSimple listeATester;
 
     @BeforeEach
-    void init() {
+    public void init() {
         listeATester = new ListeSimple();
     }
 

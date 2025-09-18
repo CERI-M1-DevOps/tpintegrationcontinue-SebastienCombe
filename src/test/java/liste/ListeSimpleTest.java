@@ -131,7 +131,7 @@ class ListeSimpleTest {
     }
 
     @Test
-    public void supprimeTousUneSeuleFoisPositionQuelconque() {
+    void supprimeTousUneSeuleFoisPositionQuelconque() {
         listeATester.ajout(1);
         listeATester.ajout(3);
         listeATester.ajout(2);
